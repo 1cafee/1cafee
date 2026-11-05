@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,rust,c,docker,linux,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,docker,linux,html,css)](https://skillicons.dev)
 
 <!--
 **1cafee/1cafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
