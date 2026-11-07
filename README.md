@@ -15,15 +15,15 @@
 </p>
 
 ## Sobre
-
+<p>
 Sou estudante de Banco de Dados, interessado em desenvolvimento de software e na criação de soluções que facilitem tarefas do dia a dia.
 
 Tenho experiência acadêmica e prática com desenvolvimento de aplicações desktop em Java e JavaFX, integração com bancos de dados relacionais e construção de interfaces web com HTML, CSS e JavaScript.
 
 Gosto de desenvolver projetos completos, trabalhando desde a organização da interface e das regras de negócio até a persistência dos dados, testes e versionamento com Git.
-<p>
+</p>
 ### Stack
-
+<p>
 <table>
   <tr>
     <td><strong>Linguagens</strong></td>
@@ -59,7 +59,7 @@ Gosto de desenvolver projetos completos, trabalhando desde a organização da in
     </td>
   </tr>
 </table>
-   </p>
+</p>
 </table>Projetos em destaque
 Megabrain API
 Aplicação desktop desenvolvida para facilitar a criação e aplicação de provas por professores. O projeto possui módulos para professores e alunos, cadastro, login, disciplinas, cursos, provas, questões, alternativas e respostas.
