@@ -28,7 +28,11 @@ Stack
   <tr>
     <td><strong>Linguagens</strong></td>
     <td>
-[![My Skills](https://skillicons.dev/icons?i=java,rust,c,python,sql&perline=3)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" />
+<img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL" alt="SQL" />
     </td>
   </tr>
   <tr>
