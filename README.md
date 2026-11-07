@@ -17,13 +17,17 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F1yagoo&color=16A34A&labelColor=111827" />
   <img src="https://img.shields.io/github/followers/1yagoo?style=flat-square&label=Seguidores&color=16A34A&labelColor=111827" />
 </p>
+
 ###Sobre
+
 Sou estudante de Banco de Dados, interessado em desenvolvimento de software e na criação de soluções que facilitem tarefas do dia a dia.
 
 Tenho experiência acadêmica e prática com desenvolvimento de aplicações desktop em Java e JavaFX, integração com bancos de dados relacionais e construção de interfaces web com HTML, CSS e JavaScript.
 
 Gosto de desenvolver projetos completos, trabalhando desde a organização da interface e das regras de negócio até a persistência dos dados, testes e versionamento com Git.
+
 ##Stack
+
 <table>
   <tr>
     <td><strong>Linguagens</strong></td>
