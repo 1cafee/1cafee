@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=1cafee&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=16A34A&style=flat" alt="visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=1yagoo&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=16A34A&style=flat" alt="visualizações do perfil" />
 </p><h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
     <img
@@ -11,11 +11,11 @@
   <a href="https://www.linkedin.com/in/yago-de-noronha-chaves-8b777a3b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Yago%20de%20Noronha-111827?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://github.com/1cafee">
-    <img src="https://img.shields.io/badge/GitHub-1cafee-111827?style=flat-square&logo=github&logoColor=white&labelColor=111827" />
+  <a href="https://github.com/1yagoo">
+    <img src="https://img.shields.io/badge/GitHub-1yagoo-111827?style=flat-square&logo=github&logoColor=white&labelColor=111827" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F1cafee&color=16A34A&labelColor=111827" />
-  <img src="https://img.shields.io/github/followers/1cafee?style=flat-square&label=Seguidores&color=16A34A&labelColor=111827" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F1yagoo&color=16A34A&labelColor=111827" />
+  <img src="https://img.shields.io/github/followers/1yagoo?style=flat-square&label=Seguidores&color=16A34A&labelColor=111827" />
 </p>
 Sobre
 Sou estudante de Banco de Dados, interessado em desenvolvimento de software e na criação de soluções que facilitem tarefas do dia a dia.
@@ -29,11 +29,9 @@ Stack
     <td><strong>Linguagens</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="C" alt="C" />
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="Rust" alt="Rust" />
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" />
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
       <img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL" alt="SQL" />
     </td>
   </tr>
@@ -64,12 +62,12 @@ Stack
     <td>
       <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
-      <img src="https://skillicons.dev/icons?i=intellij&theme=dark" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
       <img src="https://skillicons.dev/icons?i=maven&theme=dark" title="Maven" alt="Maven" />
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="VS Code" />
     </td>
   </tr>
+</table>
 </table>Projetos em destaque
 Megabrain API
 Aplicação desktop desenvolvida para facilitar a criação e aplicação de provas por professores. O projeto possui módulos para professores e alunos, cadastro, login, disciplinas, cursos, provas, questões, alternativas e respostas.
