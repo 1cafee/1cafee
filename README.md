@@ -70,12 +70,9 @@ Tecnologias: HTML, CSS e JavaScript.
 ## Contato
 
 <p align="center">
-  <a href="mailto:yagonoronhachaves@gmail.com">E-mail</a> •
-  <a href="https://www.linkedin.com/in/yago-de-noronha-chaves/">LinkedIn</a> •
-  <a href="https://github.com/1yagoo">GitHub</a>
-</p>
-
-<p align="center">
+  <a href="mailto:yagonoronhachaves@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-yagonoronhachaves%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
   <a href="https://www.linkedin.com/in/yago-de-noronha-chaves/">
     <img src="https://img.shields.io/badge/LinkedIn-Yago%20de%20Noronha-111827?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
