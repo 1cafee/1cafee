@@ -2,13 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=1yagoo&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=16A34A&style=flat" alt="visualizações do perfil" />
 </p><h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=34&duration=3000&pause=600&multiline=true&width=720&height=140&color=16A34A&center=true&vCenter=true&lines=%24+Dev;Yago+de+Noronha+Chaves"
-      alt="Typing SVG"
-    />
   </a>
 </h1><p align="center">
-  <a href="https://www.linkedin.com/in/yago-de-noronha-chaves-8b777a3b7/">
+  <a href="https://www.linkedin.com/in/yago-de-noronha-chaves/">
     <img src="https://img.shields.io/badge/LinkedIn-Yago%20de%20Noronha-111827?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://github.com/1yagoo">
