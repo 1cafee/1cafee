@@ -28,10 +28,7 @@ Stack
   <tr>
     <td><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" />
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" />
-      <img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL" alt="SQL" />
+[![My Skills](https://skillicons.dev/icons?i=java,rust,c,python,sql&perline=3)](https://skillicons.dev)
     </td>
   </tr>
   <tr>
@@ -56,7 +53,6 @@ Stack
       <img src="https://skillicons.dev/icons?i=maven&theme=dark" title="Maven" alt="Maven" />
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Scene%20Builder-2E7D32?style=flat-square&logo=java&logoColor=white" title="Scene Builder" alt="Scene
     </td>
   </tr>
 </table>
