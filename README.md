@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/followers/1yagoo?style=flat-square&label=Seguidores&color=16A34A&labelColor=111827" />
 </p>
 
-###Sobre
+### Sobre
 
 Sou estudante de Banco de Dados, interessado em desenvolvimento de software e na criação de soluções que facilitem tarefas do dia a dia.
 
@@ -26,7 +26,7 @@ Tenho experiência acadêmica e prática com desenvolvimento de aplicações des
 
 Gosto de desenvolver projetos completos, trabalhando desde a organização da interface e das regras de negócio até a persistência dos dados, testes e versionamento com Git.
 
-##Stack
+## Stack
 
 <table>
   <tr>
