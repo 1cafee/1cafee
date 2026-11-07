@@ -31,7 +31,6 @@ Stack
       <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
       <img src="https://skillicons.dev/icons?i=sql&theme=dark" title="SQL" alt="SQL" />
     </td>
   </tr>
