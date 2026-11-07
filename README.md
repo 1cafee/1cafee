@@ -36,14 +36,6 @@ Stack
     </td>
   </tr>
   <tr>
-    <td><strong>Desktop</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaFX-2E7D32?style=flat-square&logo=java&logoColor=white" title="JavaFX" alt="JavaFX" />
-      <img src="https://img.shields.io/badge/Scene%20Builder-2E7D32?style=flat-square&logo=java&logoColor=white" title="Scene Builder" alt="Scene Builder" />
-    </td>
-  </tr>
-  <tr>
     <td><strong>Banco de dados</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
@@ -65,6 +57,7 @@ Stack
       <img src="https://skillicons.dev/icons?i=maven&theme=dark" title="Maven" alt="Maven" />
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Scene%20Builder-2E7D32?style=flat-square&logo=java&logoColor=white" title="Scene Builder" alt="Scene
     </td>
   </tr>
 </table>
