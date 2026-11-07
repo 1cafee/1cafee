@@ -32,9 +32,11 @@ Stack
 <img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" alt="Rust" />
 <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" />
 <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
-     title="SQL"
-     alt="SQL" />
+<img
+  src="https://img.icons8.com/color/48/sql.png"
+  title="SQL"
+  alt="SQL"
+/>
     </td>
   </tr>
   <tr>
