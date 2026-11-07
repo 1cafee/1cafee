@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=1yagoo&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=16A34A&style=flat" alt="visualizações do perfil" />
-</p><h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
   </a>
 </h1><p align="center">
@@ -21,7 +21,7 @@ Sou estudante de Banco de Dados, interessado em desenvolvimento de software e na
 Tenho experiência acadêmica e prática com desenvolvimento de aplicações desktop em Java e JavaFX, integração com bancos de dados relacionais e construção de interfaces web com HTML, CSS e JavaScript.
 
 Gosto de desenvolver projetos completos, trabalhando desde a organização da interface e das regras de negócio até a persistência dos dados, testes e versionamento com Git.
-
+<p>
 ### Stack
 
 <table>
@@ -59,6 +59,7 @@ Gosto de desenvolver projetos completos, trabalhando desde a organização da in
     </td>
   </tr>
 </table>
+   </p>
 </table>Projetos em destaque
 Megabrain API
 Aplicação desktop desenvolvida para facilitar a criação e aplicação de provas por professores. O projeto possui módulos para professores e alunos, cadastro, login, disciplinas, cursos, provas, questões, alternativas e respostas.
