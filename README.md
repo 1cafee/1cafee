@@ -23,7 +23,7 @@ Tenho experiência acadêmica e prática com desenvolvimento de aplicações des
 Gosto de desenvolver projetos completos, trabalhando desde a organização da interface e das regras de negócio até a persistência dos dados, testes e versionamento com Git.
 </p>
 ## Stack
-<p>
+
 <table>
   <tr>
     <td><strong>Linguagens</strong></td>
@@ -59,7 +59,6 @@ Gosto de desenvolver projetos completos, trabalhando desde a organização da in
     </td>
   </tr>
 </table>
-</p>
 </table>Projetos em destaque
 Megabrain API
 Aplicação desktop desenvolvida para facilitar a criação e aplicação de provas por professores. O projeto possui módulos para professores e alunos, cadastro, login, disciplinas, cursos, provas, questões, alternativas e respostas.
